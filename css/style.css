@@ -382,7 +382,7 @@ mark,
 .blockquote-footer {
   display: block;
   font-size: 80%;
-  color: #6c757d; }
+  color: #8232a1; }
   .blockquote-footer::before {
     content: "\2014\00A0"; }
 
@@ -407,7 +407,7 @@ mark,
 
 .figure-caption {
   font-size: 90%;
-  color: #6c757d; }
+  color: #8426af; }
 
 code {
   font-size: 87.5%;
@@ -1444,13 +1444,13 @@ pre {
 .table-warning td,
 .table-warning thead th,
 .table-warning tbody + tbody {
-  border-color: #ffdf7e; }
+  border-color: #862da1; }
 
 .table-hover .table-warning:hover {
-  background-color: #ffe8a1; }
+  background-color: #8633a7; }
   .table-hover .table-warning:hover > td,
   .table-hover .table-warning:hover > th {
-    background-color: #ffe8a1; }
+    background-color: #832eb4; }
 
 .table-danger,
 .table-danger > th,
@@ -1506,7 +1506,7 @@ pre {
 .table-active,
 .table-active > th,
 .table-active > td {
-  background-color: rgba(0, 0, 0, 0.075); }
+  background-color: rgba(125, 65, 165, 0.966); }
 
 .table-hover .table-active:hover {
   background-color: rgba(0, 0, 0, 0.075); }
