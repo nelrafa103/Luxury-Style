@@ -8102,7 +8102,7 @@ h1, h2, h3, h4, h5,
       font-size: 14px; }
       .ftco-navbar-light .navbar-nav > .nav-item .dropdown-menu .dropdown-item:hover, .ftco-navbar-light .navbar-nav > .nav-item .dropdown-menu .dropdown-item:focus {
         background: transparent;
-        color: #fff; }
+        color: #000000; }
   .ftco-navbar-light .navbar-nav > .nav-item.ftco-seperator {
     position: relative;
     margin-left: 20px;
@@ -8607,13 +8607,13 @@ h1, h2, h3, h4, h5,
   .btn:hover, .btn:active, .btn:focus {
     outline: none; }
   .btn.btn-primary {
-    background: #ffa45c;
-    border: 1px solid #ffa45c;
+    background: #ff5cf1 ;
+    border: 1px solid  #ff5cf1;
     color: #fff; }
     .btn.btn-primary:hover {
-      border: 1px solid #ffa45c;
+      border: 1px solid  #ff5cf1;
       background: transparent;
-      color: #ffa45c; }
+      color: #ff5cf1; }
     .btn.btn-primary.btn-outline-primary {
       border: 1px solid #ffa45c;
       background: transparent;
