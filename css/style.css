@@ -8627,8 +8627,8 @@ h1, h2, h3, h4, h5,
     border: 1px solid #fff;
     color: #000000; }
     .btn.btn-white:hover {
-      background: #ffa45c;
-      border: 1px solid #ffa45c;
+      background: #ff5cf1;
+      border: 1px solid #ff5cf1;
       color: #fff; }
     .btn.btn-white.btn-outline-white {
       border: 1px solid #fff;
@@ -8643,8 +8643,8 @@ h1, h2, h3, h4, h5,
     border: 1px solid #000000;
     color: #fff; }
     .btn.btn-black:hover {
-      background: #ffa45c;
-      border: 1px solid #ffa45c;
+      background: #ff5cf1;
+      border: 1px solid #ff5cf1;
       color: #fff; }
     .btn.btn-black.btn-outline-white {
       border: 1px solid #000000;
@@ -9483,7 +9483,7 @@ textarea.form-control {
       border-radius: 50%;
       background: rgba(0, 0, 0, 0.2); }
       .testimony-section .owl-dots .owl-dot.active {
-        background: #ffa45c; }
+        background: #000000; }
 
 .testimony-wrap {
   display: block;
