@@ -1,3 +1,3 @@
 function myFunction() {
-    document.getElementById("demo").innerHTML = "Hello World";
+document.getElementById("laganga").src="images/product-8.jpg";
   }
