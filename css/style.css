@@ -8403,6 +8403,7 @@ h1, h2, h3, h4, h5,
             background: #000000;
             opacity: 0; }
           @media (max-width: 991.98px) {
+            
             .owl-carousel.home-slider .slider-item .slider-text .one-third {
               width: 100%;
               z-index: 0; }
@@ -8415,7 +8416,7 @@ h1, h2, h3, h4, h5,
           position: relative; }
           @media (min-width: 768px) {
             .owl-carousel.home-slider .slider-item .slider-text .one-forth {
-              position: absolute;
+              position: none;
               top: 0;
               left: 0;
               bottom: 0;
@@ -8436,7 +8437,7 @@ h1, h2, h3, h4, h5,
             position: relative; }
             @media (min-width: 992px) {
               .owl-carousel.home-slider .slider-item .slider-text .one-forth .text {
-                position: absolute;
+                position: none;
                 top: 50%;
                 left: 0;
                 -webkit-transform: translateY(-50%);
@@ -8446,6 +8447,7 @@ h1, h2, h3, h4, h5,
                 max-width: 50%;
                 padding-left: 45px;
                 padding-right: 3em; } }
+                 
         .owl-carousel.home-slider .slider-item .slider-text .subheading {
           color: #000000;
           font-weight: 300;
