@@ -10071,12 +10071,13 @@ textarea.form-control {
   }
   
   .contenido-slider:nth-child(2){
-      background: #332863;
-      color: #fff;
+      background: #ffffff;
+      color: #000
   }
   
   .contenido-slider:nth-child(3){
-      background: #611a68;
+      background: #ffffff;
+      color:#000;
   }
   
   .contenido-slider > img{
