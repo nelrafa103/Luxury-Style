@@ -134,7 +134,7 @@ sup {
   top: -.5em; }
 
 a {
-  color: #007bff;
+  color: #000000;
   text-decoration: none;
   background-color: transparent; }
   a:hover {
@@ -3469,7 +3469,7 @@ input[type="button"].btn-block {
   display: inline-block;
   padding-top: 0.3125rem;
   padding-bottom: 0.3125rem;
-  margin-right: 1rem;
+  margin-right: 0.1rem;
   font-size: 1.25rem;
   line-height: inherit;
   white-space: nowrap; }
@@ -4115,7 +4115,7 @@ input[type="button"].btn-block {
   display: inline-block;
   padding: 0.25em 0.4em;
   font-size: 75%;
-  font-weight: 700;
+  font-weight: 600;
   line-height: 1;
   text-align: center;
   white-space: nowrap;
@@ -4216,7 +4216,7 @@ input[type="button"].btn-block {
   color: inherit; }
 
 .alert-link {
-  font-weight: 700; }
+  font-weight: 600; }
 
 .alert-dismissible {
   padding-right: 4rem; }
@@ -4523,7 +4523,7 @@ input[type="button"].btn-block {
 .close {
   float: right;
   font-size: 1.5rem;
-  font-weight: 700;
+  font-weight: 600;
   line-height: 1;
   color: #000;
   text-shadow: 0 1px 0 #fff;
@@ -8012,7 +8012,7 @@ a {
   -webkit-transition: .3s all ease;
   -o-transition: .3s all ease;
   transition: .3s all ease;
-  color: #ffa45c; }
+  color: #000; }
   a:hover, a:focus {
     text-decoration: none;
     color: #ffa45c; }
@@ -8058,7 +8058,8 @@ h1, h2, h3, h4, h5,
     background: #000;
     top: 0; }
   .ftco-navbar-light .navbar-brand {
-    color: #fff; }
+    color: #fff;
+    font-weight: 150px; }
     .ftco-navbar-light .navbar-brand:hover, .ftco-navbar-light .navbar-brand:focus {
       color: #fff; }
     @media (max-width: 991.98px) {
@@ -8208,7 +8209,7 @@ h1, h2, h3, h4, h5,
       color: #ffffff; }
 
 .navbar-brand {
-  font-weight: 800;
+  font-weight: 50;
   font-size: 20px;
   text-transform: uppercase;
   letter-spacing: 2px; }
@@ -8241,10 +8242,10 @@ h1, h2, h3, h4, h5,
         .hero-wrap .slider-text .breadcrumbs span a {
           color: #000000; }
     .hero-wrap .slider-text .bread {
-      font-weight: 800;
+      font-weight: 500;
       color: #000000;
       font-size: 30px;
-      font-family: "Open Sans", Arial, sans-serif;
+      font-family: "Segoe UI",Open Sans, sans-serif;
       letter-spacing: 3px;
       text-transform: uppercase; }
     .hero-wrap .slider-text .btn-primary {
@@ -8483,7 +8484,7 @@ h1, h2, h3, h4, h5,
             text-orientation: sideways;
             margin: 0rem;
             position: absolute;
-            top: 15px;
+            top: 15px; 
             left: -50px;
             height: 100%;
             text-transform: uppercase;
