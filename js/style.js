@@ -1,28 +1,28 @@
  
 function myFunction(){
-  document.getElementById("producto_1.1").href="images/Camisas y Tops/product-10.jpg";
-  document.getElementById("producto_1.2").src="images/Camisas y Tops/product-10.jpg"; 
+  document.getElementById("producto_1.1").href="images/CamisasTops/product-10.jpg";
+  document.getElementById("producto_1.2").src="images/CamisasTops/product-10.jpg"; 
 
-  document.getElementById("producto_2.1").href="images/Camisas y Tops/product-9.jpg";
-  document.getElementById("producto_2.2").src="images/Camisas y Tops/product-9.jpg";
+  document.getElementById("producto_2.1").href="images/CamisasTops/product-9.jpg";
+  document.getElementById("producto_2.2").src="images/CamisasTops/product-9.jpg";
 
-  document.getElementById("producto_3.1").href="images/Camisas y Tops/product-22.jpg";
-  document.getElementById("producto_3.2").src="images/Camisas y Tops/product-22.jpg";
+  document.getElementById("producto_3.1").href="images/CamisasTops/product-22.jpg";
+  document.getElementById("producto_3.2").src="images/CamisasTops/product-22.jpg";
 
-  document.getElementById("producto_4.1").href="images/Camisas y Tops/product-23.jpg";
-  document.getElementById("producto_4.2").src="images/Camisas y Tops/product-23.jpg";
+  document.getElementById("producto_4.1").href="images/CamisasTops/product-23.jpg";
+  document.getElementById("producto_4.2").src="images/CamisasTops/product-23.jpg";
 
-  document.getElementById("producto_5.1").href="images/Camisas y Tops/product-24.jpg";
-  document.getElementById("producto_5.2").src="images/Camisas y Tops/product-24.jpg";
+  document.getElementById("producto_5.1").href="images/CamisasTops/product-24.jpg";
+  document.getElementById("producto_5.2").src="images/CamisasTops/product-24.jpg";
 
-  document.getElementById("producto_6.1").href="images/Camisas y Tops/product-26.jpg";
-  document.getElementById("producto_6.2").src="images/Camisas y Tops/product-26.jpg";
+  document.getElementById("producto_6.1").href="images/CamisasTops/product-26.jpg";
+  document.getElementById("producto_6.2").src="images/CamisasTops/product-26.jpg";
 
-  document.getElementById("producto_7.1").href="images/Camisas y Tops/product-27.jpg";
-  document.getElementById("producto_7.2").src="images/Camisas y Tops/product-27.jpg";
+  document.getElementById("producto_7.1").href="images/CamisasTops/product-27.jpg";
+  document.getElementById("producto_7.2").src="images/CamisasTops/product-27.jpg";
 
-  document.getElementById("producto_8.1").href="images/Camisas y Tops/product-28.jpg";
-  document.getElementById("producto_8.2").src="images/Camisas y Tops/product-28.jpg";
+  document.getElementById("producto_8.1").href="images/CamisasTops/product-28.jpg";
+  document.getElementById("producto_8.2").src="images/CamisasTops/product-28.jpg";
   };
 ;
 
@@ -185,5 +185,11 @@ function myFunction8(){
   document.getElementById("producto_7.2").src="images/product_27.jpg";
   document.getElementById("producto_8.1").href="images/product_28.jpg";
   document.getElementById("producto_8.2").src="images/product_28.jpg";
+  };
+;
+
+
+function myFunction9(){
+  var x = document.getElementById("producto_8.2")
   };
 ;
