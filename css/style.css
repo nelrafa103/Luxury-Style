@@ -8425,7 +8425,7 @@ h1, h2, h3, h4, h5,
           @media (max-width: 991.98px) {
             .owl-carousel.home-slider .slider-item .slider-text .one-forth {
               width: 100%;
-              position: absolute;
+              position: none;
               top: 0;
               left: 0;
               right: 0;
