@@ -192,7 +192,7 @@ setInterval(function(){
 
 function slides(){
     slider.style.transform = "translate("+(-width*contador)+"px)";
-    slider.style.transition = "transform .8s";
+    slider.style.transition = "transform .10s";
     contador++;
 
     if(contador == sliderIndividual.length){
@@ -203,9 +203,4 @@ function slides(){
         },1500)
     }
 }
-
-function myFunction8(){
- document.getElementById("producto_2_2").innerHTML = "<img src='images/Chaquetas/product-42.jpg' width='400px' height='150px'>"
-  };
-;
 
