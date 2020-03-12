@@ -203,3 +203,9 @@ function slides(){
         },1500)
     }
 }
+
+function myFunction8(){
+ document.getElementById("producto_2_2").innerHTML = "<img src='images/Chaquetas/product-42.jpg' width='400px' height='150px'>"
+  };
+;
+
