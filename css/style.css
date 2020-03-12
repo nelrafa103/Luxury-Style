@@ -9366,7 +9366,10 @@ textarea.form-control {
     position: relative;
     font-size: 40px;
     font-weight: 600;
-    color: #000000; }
+    color: #fff; 
+    background: #000;
+    border-radius: 2em;
+    text-align:center  ;}
     .heading-section h2 strong {
       font-weight: 700; }
     @media (max-width: 767.98px) {
