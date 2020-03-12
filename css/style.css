@@ -10102,7 +10102,7 @@ textarea.form-control {
       color: #fff;
       background: #000000;
       width: 100px;
-      display: block;
+      display: inline-block;
       padding: 15px 0;
       text-align: center;
       border-radius: 3px;
@@ -10128,6 +10128,7 @@ textarea.form-control {
       .contenido-slider h2{
           font-size: 23px;
       }
+     
   }
   
   
@@ -10139,6 +10140,5 @@ textarea.form-control {
       .contenido-slider > div{
           width: 80%;
       }
-  
   }
   
