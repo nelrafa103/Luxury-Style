@@ -9298,7 +9298,9 @@ textarea.form-control {
     font-size: 14px;
     margin-bottom: 0px; }
     .ftco-footer .ftco-footer-widget ul li a {
-      color: #000000; }
+      color: #000000; 
+      text-align: justify;
+    }
   .ftco-footer .ftco-footer-widget .btn-primary {
     border: 2px solid #fff !important; }
     .ftco-footer .ftco-footer-widget .btn-primary:hover {
