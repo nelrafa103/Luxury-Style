@@ -2,80 +2,129 @@
 function myFunction(){
   document.getElementById("producto_1.1").href="images/CamisasTops/product-10.jpg";
   document.getElementById("producto_1.2").src="images/CamisasTops/product-10.jpg"; 
+  document.getElementById("producto_1.3").innerHTML = "Camisa Frarica";
+  document.getElementById("producto_1.4").innerHTML = "RD$ 3050";
 
   document.getElementById("producto_2_1").href="images/CamisasTops/product-9.jpg";
   document.getElementById("producto_2_2").src="images/CamisasTops/product-9.jpg";
+  document.getElementById("producto_2_3").innerHTML = "Camisa Caliban";
+  document.getElementById("producto_2_4").innerHTML = "RD$ 3000";
 
   document.getElementById("producto_3.1").href="images/CamisasTops/product-22.jpg";
   document.getElementById("producto_3.2").src="images/CamisasTops/product-22.jpg";
+  document.getElementById("producto_3.3").innerHTML = "Camisa One & Way";
+  document.getElementById("producto_3.4").innerHTML = "RD$ 2995";
 
   document.getElementById("producto_4.1").href="images/CamisasTops/product-23.jpg";
   document.getElementById("producto_4.2").src="images/CamisasTops/product-23.jpg";
+  document.getElementById("producto_4.3").innerHTML = "Camisa Frarica";
+  document.getElementById("producto_4.4").innerHTML = "RD$ 3050";
 
   document.getElementById("producto_5.1").href="images/CamisasTops/product-24.jpg";
   document.getElementById("producto_5.2").src="images/CamisasTops/product-24.jpg";
+  document.getElementById("producto_5.3").innerHTML = "Camisa Frarica";
+  document.getElementById("producto_5.4").innerHTML = "RD$ 3050";
 
   document.getElementById("producto_6.1").href="images/CamisasTops/product-26.jpg";
   document.getElementById("producto_6.2").src="images/CamisasTops/product-26.jpg";
+  document.getElementById("producto_6.3").innerHTML = "Camisa Frarica";
+  document.getElementById("producto_6.4").innerHTML = "RD$ 3050";
 
   document.getElementById("producto_7.1").href="images/CamisasTops/product-27.jpg";
   document.getElementById("producto_7.2").src="images/CamisasTops/product-27.jpg";
+  document.getElementById("producto_7.3").innerHTML = "Camisa Frarica";
+  document.getElementById("producto_7.4").innerHTML = "RD$ 3050";
 
   document.getElementById("producto_8.1").href="images/CamisasTops/product-28.jpg";
   document.getElementById("producto_8.2").src="images/CamisasTops/product-28.jpg";
+  document.getElementById("producto_8.3").innerHTML = "Camisa Frarica";
+  document.getElementById("producto_8.4").innerHTML = "RD$ 3050";
   };
 ;
 function myFunction2(){
   document.getElementById("producto_1.1").href="images/Vestidos/product-6.jpg";
   document.getElementById("producto_1.2").src="images/Vestidos/product-6.jpg"; 
+  document.getElementById("producto_1.3").innerHTML = "Camisa Frarica";
+  document.getElementById("producto_1.4").innerHTML = "RD$ 3050";
 
-  document.getElementById("producto_2.1").href="images/Vestidos/product-11.jpg";
-  document.getElementById("producto_2.2").src="images/Vestidos/product-11.jpg";
-
+  document.getElementById("producto_2_1").href="images/Vestidos/product-11.jpg";
+  document.getElementById("producto_2_2").src="images/Vestidos/product-11.jpg";
+  document.getElementById("producto_2_3").innerHTML = "Camisa Frarica";
+  document.getElementById("producto_2_4").innerHTML = "RD$ 3050";
+ 
   document.getElementById("producto_3.1").href="images/Vestidos/product-31.jpg";
   document.getElementById("producto_3.2").src="images/Vestidos/product-31.jpg";
+  document.getElementById("producto_3.3").innerHTML = "Camisa Frarica";
+  document.getElementById("producto_3.4").innerHTML = "RD$ 3050";
 
   document.getElementById("producto_4.1").href="images/Vestidos/product-7.jpg";
   document.getElementById("producto_4.2").src="images/Vestidos/product-7.jpg";
+  document.getElementById("producto_4.3").innerHTML = "Camisa Frarica";
+  document.getElementById("producto_4.4").innerHTML = "RD$ 3050";
 
   document.getElementById("producto_5.1").href="images/Vestidos/product-13.jpg";
   document.getElementById("producto_5.2").src="images/Vestidos/product-13.jpg";
+  document.getElementById("producto_5.3").innerHTML = "Camisa Frarica";
+  document.getElementById("producto_5.4").innerHTML = "RD$ 3050";
 
   document.getElementById("producto_6.1").href="images/Vestidos/product-2.jpg";
   document.getElementById("producto_6.2").src="images/Vestidos/product-2.jpg";
+  document.getElementById("producto_6.3").innerHTML = "Camisa Frarica";
+  document.getElementById("producto_6.4").innerHTML = "RD$ 3050";
 
   document.getElementById("producto_7.1").href="images/Vestidos/product-5.jpg";
   document.getElementById("producto_7.2").src="images/Vestidos/product-5.jpg";
+  document.getElementById("producto_7.3").innerHTML = "Camisa Frarica";
+  document.getElementById("producto_7.4").innerHTML = "RD$ 3050";
 
   document.getElementById("producto_8.1").href="images/Vestidos/product-30.jpg";
   document.getElementById("producto_8.2").src="images/Vestidos/product-30.jpg";
+  document.getElementById("producto_7.3").innerHTML = "Camisa Frarica";
+  document.getElementById("producto_7.4").innerHTML = "RD$ 3050";
+
   };
 ;
 
 function myFunction3(){
   document.getElementById("producto_1.1").href="images/Faldas y Bermudas/product-16.jpg";
   document.getElementById("producto_1.2").src="images/Faldas y Bermudas/product-16.jpg"; 
- 
-  document.getElementById("producto_2.1").href="images/Faldas y Bermudas/product-20.jpg";
-  document.getElementById("producto_2.2").src="images/Faldas y Bermudas/product-20.jpg";
+  document.getElementById("producto_1.3").innerHTML = "Camisa Frarica";
+  document.getElementById("producto_1.4").innerHTML = "RD$ 3050";
+
+  document.getElementById("producto_2_1").href="images/Faldas y Bermudas/product-20.jpg";
+  document.getElementById("producto_2_2").src="images/Faldas y Bermudas/product-20.jpg";
+  document.getElementById("producto_2_3").innerHTML = "Camisa Frarica";
+  document.getElementById("producto_2_4").innerHTML = "RD$ 3050";
 
   document.getElementById("producto_3.1").href="images/Faldas y Bermudas/product-19.jpg";
   document.getElementById("producto_3.2").src="images/Faldas y Bermudas/product-19.jpg";
+  document.getElementById("producto_3.3").innerHTML = "Camisa Frarica";
+  document.getElementById("producto_3.4").innerHTML = "RD$ 3050";
 
   document.getElementById("producto_4.1").href="images/Faldas y Bermudas/product-18.jpg";
   document.getElementById("producto_4.2").src="images/Faldas y Bermudas/product-18.jpg";
+  document.getElementById("producto_4.3").innerHTML = "Camisa Frarica";
+  document.getElementById("producto_4.4").innerHTML = "RD$ 3050";
 
   document.getElementById("producto_5.1").href="images/Faldas y Bermudas/product-17.jpg";
   document.getElementById("producto_5.2").src="images/Faldas y Bermudas/product-17.jpg";
- 
+  document.getElementById("producto_5.3").innerHTML = "Camisa Frarica";
+  document.getElementById("producto_5.4").innerHTML = "RD$ 3050";
+
   document.getElementById("producto_6.1").href="images/Faldas y Bermudas/product-35.jpg";
   document.getElementById("producto_6.2").src="images/Faldas y Bermudas/product-35.jpg";
+  document.getElementById("producto_6.3").innerHTML = "Camisa Frarica";
+  document.getElementById("producto_6.4").innerHTML = "RD$ 3050";
 
   document.getElementById("producto_7.1").href="images/Faldas y Bermudas/product-36.jpg";
   document.getElementById("producto_7.2").src="images/Faldas y Bermudas/product-36.jpg";
-  
+  document.getElementById("producto_7.3").innerHTML = "Camisa Frarica";
+  document.getElementById("producto_7.4").innerHTML = "RD$ 3050";
+
   document.getElementById("producto_8.1").href="images/Faldas y Bermudas/product-34.jpg";
   document.getElementById("producto_8.2").src="images/Faldas y Bermudas/product-34.jpg";
+  document.getElementById("producto_8.3").innerHTML = "Camisa Frarica";
+  document.getElementById("producto_8.4").innerHTML = "RD$ 3050";
  
   };
 ;
@@ -83,83 +132,130 @@ function myFunction3(){
 function myFunction4(){
   document.getElementById("producto_1.1").href="images/Chaquetas/product-1.jpg";
   document.getElementById("producto_1.2").src="images/Chaquetas/product-1.jpg"; 
-  
-  document.getElementById("producto_2.1").href="images/Chaquetas/product-37.jpg";
-  document.getElementById("producto_2.2").src="images/Chaquetas/product-37.jpg";
-  
+  document.getElementById("producto_1.3").innerHTML = "Camisa Frarica";
+  document.getElementById("producto_1.4").innerHTML = "RD$ 3050";
+
+  document.getElementById("producto_2_1").href="images/Chaquetas/product-37.jpg";
+  document.getElementById("producto_2_2").src="images/Chaquetas/product-37.jpg";
+  document.getElementById("producto_2_3").innerHTML = "Camisa Frarica";
+  document.getElementById("producto_2_4").innerHTML = "RD$ 3050";
+
   document.getElementById("producto_3.1").href="images/Chaquetas/product-38.jpg";
   document.getElementById("producto_3.2").src="images/Chaquetas/product-38.jpg";
- 
+  document.getElementById("producto_3.3").innerHTML = "Camisa Frarica";
+  document.getElementById("producto_3.4").innerHTML = "RD$ 3050";
+
   document.getElementById("producto_4.1").href="images/Chaquetas/product-40.jpg";
   document.getElementById("producto_4.2").src="images/Chaquetas/product-40.jpg";
-  
+  document.getElementById("producto_4.3").innerHTML = "Camisa Frarica";
+  document.getElementById("producto_4.4").innerHTML = "RD$ 3050";
+
   document.getElementById("producto_5.1").href="images/Chaquetas/product-39.jpg";
   document.getElementById("producto_5.2").src="images/Chaquetas/product-39.jpg";
-  
+  document.getElementById("producto_5.3").innerHTML = "Camisa Frarica";
+  document.getElementById("producto_5.4").innerHTML = "RD$ 3050";
+
   document.getElementById("producto_6.1").href="images/Chaquetas/product-42.jpg";
   document.getElementById("producto_6.2").src="images/Chaquetas/product-42.jpg";
- 
+  document.getElementById("producto_6.3").innerHTML = "Camisa Frarica";
+  document.getElementById("producto_6.4").innerHTML = "RD$ 3050";
+
   document.getElementById("producto_7.1").href="images/Chaquetas/product-41.jpg";
   document.getElementById("producto_7.2").src="images/Chaquetas/product-41.jpg";
- 
+  document.getElementById("producto_7.3").innerHTML = "Camisa Frarica";
+  document.getElementById("producto_7.4").innerHTML = "RD$ 3050";
+
   document.getElementById("producto_8.1").href="images/Chaquetas/product-43.jpg";
   document.getElementById("producto_8.2").src="images/Chaquetas/product-43.jpg";
+  document.getElementById("producto_8.3").innerHTML = "Camisa Frarica";
+  document.getElementById("producto_8.4").innerHTML = "RD$ 3050";
+
   };
 ;
 
 function myFunction5(){
   document.getElementById("producto_1.1").href="images/Abrigos/product-43.jpg";
   document.getElementById("producto_1.2").src="images/Abrigos/product-43.jpg"; 
+  document.getElementById("producto_1.3").innerHTML = "Camisa Frarica";
+  document.getElementById("producto_1.4").innerHTML = "RD$ 3050";
 
-  document.getElementById("producto_2.1").href="images/Abrigos/product-44.jpg";
-  document.getElementById("producto_2.2").src="images/Abrigos/product-44.jpg";
-  
+  document.getElementById("producto_2_1").href="images/Abrigos/product-44.jpg";
+  document.getElementById("producto_2_2").src="images/Abrigos/product-44.jpg";
+  document.getElementById("producto_2_3").innerHTML = "Camisa Frarica";
+   document.getElementById("producto_2_4").innerHTML = "RD$ 3050";
+
   document.getElementById("producto_3.1").href="images/Abrigos/product-45.jpg";
   document.getElementById("producto_3.2").src="images/Abrigos/product-45.jpg";
- 
+  document.getElementById("producto_3.3").innerHTML = "Camisa Frarica";
+  document.getElementById("producto_3.4").innerHTML = "RD$ 3050";
+
   document.getElementById("producto_4.1").href="images/Abrigos/product-46.jpg";
   document.getElementById("producto_4.2").src="images/Abrigos/product-46.jpg";
-  
+  document.getElementById("producto_4.3").innerHTML = "Camisa Frarica";
+  document.getElementById("producto_4.4").innerHTML = "RD$ 3050";
+
   document.getElementById("producto_5.1").href="images/Abrigos/product-47.jpg";
   document.getElementById("producto_5.2").src="images/Abrigos/product-47.jpg";
-  
+  document.getElementById("producto_5.3").innerHTML = "Camisa Frarica";
+  document.getElementById("producto_5.4").innerHTML = "RD$ 3050";
+
   document.getElementById("producto_6.1").href="images/Abrigos/product-48.jpg";
   document.getElementById("producto_6.2").src="images/Abrigos/product-48.jpg";
- 
+  document.getElementById("producto_6.3").innerHTML = "Camisa Frarica";
+  document.getElementById("producto_6.4").innerHTML = "RD$ 3050";
+
   document.getElementById("producto_7.1").href="images/Abrigos/product-49.jpg";
   document.getElementById("producto_7.2").src="images/Abrigos/product-49.jpg";
+  document.getElementById("producto_7.3").innerHTML = "Camisa Frarica";
+  document.getElementById("producto_7.4").innerHTML = "RD$ 3050";
 
   document.getElementById("producto_8.1").href="images/Abrigos/product-50.jpg";
   document.getElementById("producto_8.2").src="images/Abrigos/product-50.jpg";
- 
+  document.getElementById("producto_8.3").innerHTML = "Camisa Frarica";
+  document.getElementById("producto_8.4").innerHTML = "RD$ 3050";
   };
 ;
 
 function myFunction6(){
   document.getElementById("producto_1.1").href="images/Jeans/product-51.jpg";
   document.getElementById("producto_1.2").src="images/Jeans/product-51.jpg"; 
+  document.getElementById("producto_1.3").innerHTML = "Camisa Frarica";
+  document.getElementById("producto_1.4").innerHTML = "RD$ 3050";
 
-  document.getElementById("producto_2.1").href="images/Jeans/product-52.jpg";
-  document.getElementById("producto_2.2").src="images/Jeans/product-52.jpg";
-
+  document.getElementById("producto_2_1").href="images/Jeans/product-52.jpg";
+  document.getElementById("producto_2_2").src="images/Jeans/product-52.jpg";
+  document.getElementById("producto_2_3").innerHTML = "Camisa Frarica";
+  document.getElementById("producto_2_4").innerHTML = "RD$ 3050";
+ 
   document.getElementById("producto_3.1").href="images/Jeans/product-53.jpg";
   document.getElementById("producto_3.2").src="images/Jeans/product-53.jpg";
+  document.getElementById("producto_3.3").innerHTML = "Camisa Frarica";
+  document.getElementById("producto_3.4").innerHTML = "RD$ 3050";
 
   document.getElementById("producto_4.1").href="images/Jeans/product-54.jpg";
   document.getElementById("producto_4.2").src="images/Jeans/product-54.jpg";
+  document.getElementById("producto_4.3").innerHTML = "Camisa Frarica";
+  document.getElementById("producto_4.4").innerHTML = "RD$ 3050";
 
   document.getElementById("producto_5.1").href="images/Jeans/product-55.jpg";
   document.getElementById("producto_5.2").src="images/Jeans/product-55.jpg";
-  
+  document.getElementById("producto_5.3").innerHTML = "Camisa Frarica";
+  document.getElementById("producto_5.4").innerHTML = "RD$ 3050";
+
   document.getElementById("producto_6.1").href="images/Jeans/product-56.jpg";
   document.getElementById("producto_6.2").src="images/Jeans/product-56.jpg";
+  document.getElementById("producto_6.3").innerHTML = "Camisa Frarica";
+  document.getElementById("producto_6.4").innerHTML = "RD$ 3050";
 
   document.getElementById("producto_7.1").href="images/Jeans/product-57.jpg";
   document.getElementById("producto_7.2").src="images/Jeans/product-57.jpg";
- 
+  document.getElementById("producto_7.3").innerHTML = "Camisa Frarica";
+  document.getElementById("producto_7.4").innerHTML = "RD$ 3050";
+
   document.getElementById("producto_8.1").href="images/Jeans/product-58.jpg";
   document.getElementById("producto_8.2").src="images/Jeans/product-58.jpg";
-  
+  document.getElementById("producto_8.3").innerHTML = "Camisa Frarica";
+  document.getElementById("producto_8.4").innerHTML = "RD$ 3050";
   };
 ;
 let slider = document.querySelector(".slider-contenedor")
