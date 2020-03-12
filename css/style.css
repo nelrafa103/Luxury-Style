@@ -10096,8 +10096,8 @@ textarea.form-control {
   }
   
   .contenido-slider a{
-      color: #000000;
-      background: #fff;
+      color: #fff;
+      background: #000000;
       width: 100px;
       display: block;
       padding: 15px 0;
@@ -10108,8 +10108,8 @@ textarea.form-control {
   }
   
   .contenido-slider:nth-child(2) a{
-      background: #ffffff;
-      color: #000000;
+      background: #000000;
+      color: #fff
       
   }
   
