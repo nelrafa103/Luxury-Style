@@ -88,42 +88,42 @@ function myFunction2(){
 function myFunction3(){
   document.getElementById("producto_1.1").href="images/Faldas y Bermudas/product-16.jpg";
   document.getElementById("producto_1.2").src="images/Faldas y Bermudas/product-16.jpg"; 
-  document.getElementById("producto_1.3").innerHTML = "Unisa";
+  document.getElementById("producto_1.3").innerHTML = "Vermuda Unisa";
   document.getElementById("producto_1.4").innerHTML = "RD$ 3025";
 
   document.getElementById("producto_2_1").href="images/Faldas y Bermudas/product-20.jpg";
   document.getElementById("producto_2_2").src="images/Faldas y Bermudas/product-20.jpg";
-  document.getElementById("producto_2_3").innerHTML = "Antony Morato";
+  document.getElementById("producto_2_3").innerHTML = "Vermuda Antony Morato";
   document.getElementById("producto_2_4").innerHTML = "RD$ 2290";
 
   document.getElementById("producto_3.1").href="images/Faldas y Bermudas/product-19.jpg";
   document.getElementById("producto_3.2").src="images/Faldas y Bermudas/product-19.jpg";
-  document.getElementById("producto_3.3").innerHTML = "Levi's";
+  document.getElementById("producto_3.3").innerHTML = "Vermuda Levi's";
   document.getElementById("producto_3.4").innerHTML = "RD$ 3000";
 
   document.getElementById("producto_4.1").href="images/Faldas y Bermudas/product-18.jpg";
   document.getElementById("producto_4.2").src="images/Faldas y Bermudas/product-18.jpg";
-  document.getElementById("producto_4.3").innerHTML = "G-star";
+  document.getElementById("producto_4.3").innerHTML = "Vermuda G-star";
   document.getElementById("producto_4.4").innerHTML = "RD$ 2990";
 
   document.getElementById("producto_5.1").href="images/Faldas y Bermudas/product-17.jpg";
   document.getElementById("producto_5.2").src="images/Faldas y Bermudas/product-17.jpg";
-  document.getElementById("producto_5.3").innerHTML = "Panama Jack";
+  document.getElementById("producto_5.3").innerHTML = "Vermuda Panama Jack";
   document.getElementById("producto_5.4").innerHTML = "RD$ 2000";
 
   document.getElementById("producto_6.1").href="images/Faldas y Bermudas/product-35.jpg";
   document.getElementById("producto_6.2").src="images/Faldas y Bermudas/product-35.jpg";
-  document.getElementById("producto_6.3").innerHTML = "Babour";
+  document.getElementById("producto_6.3").innerHTML = "Falda Babour";
   document.getElementById("producto_6.4").innerHTML = "RD$ 2780";
 
   document.getElementById("producto_7.1").href="images/Faldas y Bermudas/product-36.jpg";
   document.getElementById("producto_7.2").src="images/Faldas y Bermudas/product-36.jpg";
-  document.getElementById("producto_7.3").innerHTML = "Calvin Klein";
+  document.getElementById("producto_7.3").innerHTML = "Falda Calvin Klein";
   document.getElementById("producto_7.4").innerHTML = "RD$ 3125";
 
   document.getElementById("producto_8.1").href="images/Faldas y Bermudas/product-34.jpg";
   document.getElementById("producto_8.2").src="images/Faldas y Bermudas/product-34.jpg";
-  document.getElementById("producto_8.3").innerHTML = "Hackett";
+  document.getElementById("producto_8.3").innerHTML = "Falda Hackett";
   document.getElementById("producto_8.4").innerHTML = "RD$ 2590";
  
   };
@@ -132,42 +132,42 @@ function myFunction3(){
 function myFunction4(){
   document.getElementById("producto_1.1").href="images/Chaquetas/product-1.jpg";
   document.getElementById("producto_1.2").src="images/Chaquetas/product-1.jpg"; 
-  document.getElementById("producto_1.3").innerHTML = "North Face";
+  document.getElementById("producto_1.3").innerHTML = "Chaqueta North Face";
   document.getElementById("producto_1.4").innerHTML = "RD$ 5250";
 
   document.getElementById("producto_2_1").href="images/Chaquetas/product-37.jpg";
   document.getElementById("producto_2_2").src="images/Chaquetas/product-37.jpg";
-  document.getElementById("producto_2_3").innerHTML = "Helly Hansen";
+  document.getElementById("producto_2_3").innerHTML = "Chaqueta Helly Hansen";
   document.getElementById("producto_2_4").innerHTML = "RD$ 4300";
 
   document.getElementById("producto_3.1").href="images/Chaquetas/product-38.jpg";
   document.getElementById("producto_3.2").src="images/Chaquetas/product-38.jpg";
-  document.getElementById("producto_3.3").innerHTML = "Rip Curl";
+  document.getElementById("producto_3.3").innerHTML = "Chaqueta Rip Curl";
   document.getElementById("producto_3.4").innerHTML = "RD$ 3750";
 
   document.getElementById("producto_4.1").href="images/Chaquetas/product-40.jpg";
   document.getElementById("producto_4.2").src="images/Chaquetas/product-40.jpg";
-  document.getElementById("producto_4.3").innerHTML = "Canada Goose";
+  document.getElementById("producto_4.3").innerHTML = "Chaqueta Canada Goose";
   document.getElementById("producto_4.4").innerHTML = "RD$ 3525";
 
   document.getElementById("producto_5.1").href="images/Chaquetas/product-39.jpg";
   document.getElementById("producto_5.2").src="images/Chaquetas/product-39.jpg";
-  document.getElementById("producto_5.3").innerHTML = "Billabong";
+  document.getElementById("producto_5.3").innerHTML = "Chaqueta Billabong";
   document.getElementById("producto_5.4").innerHTML = "RD$ 3900";
 
   document.getElementById("producto_6.1").href="images/Chaquetas/product-42.jpg";
   document.getElementById("producto_6.2").src="images/Chaquetas/product-42.jpg";
-  document.getElementById("producto_6.3").innerHTML = "Tommy Hilfiger";
+  document.getElementById("producto_6.3").innerHTML = "Chaqueta Tommy Hilfiger";
   document.getElementById("producto_6.4").innerHTML = "RD$ 6000";
 
   document.getElementById("producto_7.1").href="images/Chaquetas/product-41.jpg";
   document.getElementById("producto_7.2").src="images/Chaquetas/product-41.jpg";
-  document.getElementById("producto_7.3").innerHTML = "Moncler";
+  document.getElementById("producto_7.3").innerHTML = "Chaqueta Moncler";
   document.getElementById("producto_7.4").innerHTML = "RD$ 4200";
 
   document.getElementById("producto_8.1").href="images/Chaquetas/product-43.jpg";
   document.getElementById("producto_8.2").src="images/Chaquetas/product-43.jpg";
-  document.getElementById("producto_8.3").innerHTML = "Altea";
+  document.getElementById("producto_8.3").innerHTML = "Chaqueta Altea";
   document.getElementById("producto_8.4").innerHTML = "RD$ 3725";
 
   };
@@ -176,42 +176,42 @@ function myFunction4(){
 function myFunction5(){
   document.getElementById("producto_1.1").href="images/Abrigos/product-43.jpg";
   document.getElementById("producto_1.2").src="images/Abrigos/product-43.jpg"; 
-  document.getElementById("producto_1.3").innerHTML = "Tommy Hilfiger";
+  document.getElementById("producto_1.3").innerHTML = "Abrigo Tommy Hilfiger";
   document.getElementById("producto_1.4").innerHTML = "RD$ 6050";
 
   document.getElementById("producto_2_1").href="images/Abrigos/product-44.jpg";
   document.getElementById("producto_2_2").src="images/Abrigos/product-44.jpg";
-  document.getElementById("producto_2_3").innerHTML = "Calvin Klein";
+  document.getElementById("producto_2_3").innerHTML = "Abrigo Calvin Klein";
    document.getElementById("producto_2_4").innerHTML = "RD$ 5150";
 
   document.getElementById("producto_3.1").href="images/Abrigos/product-45.jpg";
   document.getElementById("producto_3.2").src="images/Abrigos/product-45.jpg";
-  document.getElementById("producto_3.3").innerHTML = "Hackett";
+  document.getElementById("producto_3.3").innerHTML = "Abrigo Hackett";
   document.getElementById("producto_3.4").innerHTML = "RD$ 6000";
 
   document.getElementById("producto_4.1").href="images/Abrigos/product-46.jpg";
   document.getElementById("producto_4.2").src="images/Abrigos/product-46.jpg";
-  document.getElementById("producto_4.3").innerHTML = "Barbour";
+  document.getElementById("producto_4.3").innerHTML = "Abrigo Barbour";
   document.getElementById("producto_4.4").innerHTML = "RD$ 4580";
 
   document.getElementById("producto_5.1").href="images/Abrigos/product-47.jpg";
   document.getElementById("producto_5.2").src="images/Abrigos/product-47.jpg";
-  document.getElementById("producto_5.3").innerHTML = "Dockers";
+  document.getElementById("producto_5.3").innerHTML = "Abrigo Dockers";
   document.getElementById("producto_5.4").innerHTML = "RD$ 5335";
 
   document.getElementById("producto_6.1").href="images/Abrigos/product-48.jpg";
   document.getElementById("producto_6.2").src="images/Abrigos/product-48.jpg";
-  document.getElementById("producto_6.3").innerHTML = "Prada";
+  document.getElementById("producto_6.3").innerHTML = "Abrigo Prada";
   document.getElementById("producto_6.4").innerHTML = "RD$ 9075";
 
   document.getElementById("producto_7.1").href="images/Abrigos/product-49.jpg";
   document.getElementById("producto_7.2").src="images/Abrigos/product-49.jpg";
-  document.getElementById("producto_7.3").innerHTML = "Ganni";
+  document.getElementById("producto_7.3").innerHTML = "Abrigo Ganni";
   document.getElementById("producto_7.4").innerHTML = "RD$ 5500";
 
   document.getElementById("producto_8.1").href="images/Abrigos/product-50.jpg";
   document.getElementById("producto_8.2").src="images/Abrigos/product-50.jpg";
-  document.getElementById("producto_8.3").innerHTML = "Moncler";
+  document.getElementById("producto_8.3").innerHTML = "Abrigo Moncler";
   document.getElementById("producto_8.4").innerHTML = "RD$ 4800";
   };
 ;
@@ -219,42 +219,42 @@ function myFunction5(){
 function myFunction6(){
   document.getElementById("producto_1.1").href="images/Jeans/product-51.jpg";
   document.getElementById("producto_1.2").src="images/Jeans/product-51.jpg"; 
-  document.getElementById("producto_1.3").innerHTML = "Levi's";
+  document.getElementById("producto_1.3").innerHTML = "Jeans Levi's";
   document.getElementById("producto_1.4").innerHTML = "RD$ 2000";
 
   document.getElementById("producto_2_1").href="images/Jeans/product-52.jpg";
   document.getElementById("producto_2_2").src="images/Jeans/product-52.jpg";
-  document.getElementById("producto_2_3").innerHTML = "Lui Jo";
+  document.getElementById("producto_2_3").innerHTML = "Jeans Lui Jo";
   document.getElementById("producto_2_4").innerHTML = "RD$ 1575";
  
   document.getElementById("producto_3.1").href="images/Jeans/product-53.jpg";
   document.getElementById("producto_3.2").src="images/Jeans/product-53.jpg";
-  document.getElementById("producto_3.3").innerHTML = "Pepe Jeans";
+  document.getElementById("producto_3.3").innerHTML = " Jeans Pepe Jeans";
   document.getElementById("producto_3.4").innerHTML = "RD$ 1300";
 
   document.getElementById("producto_4.1").href="images/Jeans/product-54.jpg";
   document.getElementById("producto_4.2").src="images/Jeans/product-54.jpg";
-  document.getElementById("producto_4.3").innerHTML = "Guess Jeans";
+  document.getElementById("producto_4.3").innerHTML = "Jeans Guess Jeans";
   document.getElementById("producto_4.4").innerHTML = "RD$ 1600";
 
   document.getElementById("producto_5.1").href="images/Jeans/product-55.jpg";
   document.getElementById("producto_5.2").src="images/Jeans/product-55.jpg";
-  document.getElementById("producto_5.3").innerHTML = "Lee Jeans";
+  document.getElementById("producto_5.3").innerHTML = "Jeans From Lee Jeans";
   document.getElementById("producto_5.4").innerHTML = "RD$ 1600";
 
   document.getElementById("producto_6.1").href="images/Jeans/product-56.jpg";
   document.getElementById("producto_6.2").src="images/Jeans/product-56.jpg";
-  document.getElementById("producto_6.3").innerHTML = "Lois";
+  document.getElementById("producto_6.3").innerHTML = "Jeans Lois";
   document.getElementById("producto_6.4").innerHTML = "RD$ 1430";
 
   document.getElementById("producto_7.1").href="images/Jeans/product-57.jpg";
   document.getElementById("producto_7.2").src="images/Jeans/product-57.jpg";
-  document.getElementById("producto_7.3").innerHTML = "Diesel";
+  document.getElementById("producto_7.3").innerHTML = "Jeans Diesel";
   document.getElementById("producto_7.4").innerHTML = "RD$ 1790";
 
   document.getElementById("producto_8.1").href="images/Jeans/product-58.jpg";
   document.getElementById("producto_8.2").src="images/Jeans/product-58.jpg";
-  document.getElementById("producto_8.3").innerHTML = "Wrangler";
+  document.getElementById("producto_8.3").innerHTML = "Jeans Wrangler";
   document.getElementById("producto_8.4").innerHTML = "RD$ 1200";
   };
 ;
