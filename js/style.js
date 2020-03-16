@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
  
 function myFunction(){
   document.getElementById("producto_1.1").href="images/CamisasTops/product-10.jpg";
@@ -290,4 +288,3 @@ function slides(){
     }
 }
 
->>>>>>> parent of 2381e0e... Update style.js
